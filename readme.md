@@ -25,11 +25,6 @@ Building scalable AI automation systems and SaaS products that handle end-to-end
 
 My mission: Transform how businesses operate by delivering automation solutions that enable growth, reduce costs, and provide measurable ROI.
 
-## 🚀 Currently Building:
-• Multi-Agent AI Systems creating automated sales and suport workflows (Using WhatsApp API, CRM integrations (ClickUp), n8n, Make, Python )
-• AI-Powered SEO Content Platform (Next.js + FastAPI + AI APIs)
-• Custom API Integrations ( Supabase, Redis, Gemini, ChatGPT, Claude, Fal.ai)
-• Scalable Database Architectures (PostgreSQL, Supabase)
 ## Technologies and Tools
 ### AI & Automation
 
@@ -50,5 +45,3 @@ SEMrush | Ahrefs | DataForSEO API
 ### Tools & Platforms
 Docker | Git | ClickUp | Notion | WhatsApp Business API
 CRM Integrations | Voice Transcription Services
-
-
