@@ -28,12 +28,12 @@ My mission: Transform how businesses operate by delivering automation solutions 
 ## Technologies and Tools
 ### AI & Automation
 
-Python | JavaScript | TypeScript | n8n | Make | Zapier
+Python | n8n | Make | Zapier
 OpenAI API | Gemini API | Claude API | Perplexity API | OpenRouter
 
 ### Web Development
 
-Next.js | React.js | FastAPI | Node.js | HTML5 | CSS3
+Python | JavaScript | TypeScript | Next.js | React.js | FastAPI | Node.js | HTML5 | CSS3
 WordPress | Elementor
 
 ### Database & Backend
