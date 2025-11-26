@@ -13,6 +13,18 @@ GitHub: github.com/marcusbtc
 ## About Me
 I'm a Software Engineer specializing in AI-powered automation and multi-system agent development. I build intelligent systems that transform complex business operations into efficient automated workflows, enabling companies to scale with minimal manual overhead. Previously worked with SEO and web development (WordPress, Elementor, technical SEO), where I developed optimization strategies for multiple industries. Now I'm focused on building AI agents, automation systems, and marketing infrastructure using cutting-edge technologies.
 
+## 🔥 What I'm Working On
+Building scalable AI automation systems and SaaS products that handle end-to-end business processes—from lead capture to conversion—helping businesses achieve their goals through intelligent automation. 
+
+### Current Focus:
+• Developing multi-agent AI workflows that automate sales operations 24/7
+• Creating SaaS platforms for AI-powered content generation and SEO automation
+• Building custom integrations between CRMs, marketing platforms, and communication channels
+• Designing intelligent systems that reduce manual overhead and improve team efficiency
+• Architecting scalable database systems that support complex automation logic and multi-agent workflows
+
+My mission: Transform how businesses operate by delivering automation solutions that enable growth, reduce costs, and provide measurable ROI.
+
 ## 🚀 Currently Building:
 • Multi-Agent AI Systems creating automated sales and suport workflows (Using WhatsApp API, CRM integrations (ClickUp), n8n, Make, Python )
 • AI-Powered SEO Content Platform (Next.js + FastAPI + AI APIs)
@@ -39,21 +51,4 @@ SEMrush | Ahrefs | DataForSEO API
 Docker | Git | ClickUp | Notion | WhatsApp Business API
 CRM Integrations | Voice Transcription Services
 
-## 🔥 What I'm Working On
-Building scalable AI automation systems and SaaS products that handle end-to-end business processes—from lead capture to conversion—helping businesses achieve their goals through intelligent automation. 
 
-### Current Focus:
-• Developing multi-agent AI workflows that automate sales operations 24/7
-• Creating SaaS platforms for AI-powered content generation and SEO automation
-• Building custom integrations between CRMs, marketing platforms, and communication channels
-• Designing intelligent systems that reduce manual overhead and improve team efficiency
-• Architecting scalable database systems that support complex automation logic and multi-agent workflows
-
-My mission: Transform how businesses operate by delivering automation solutions that enable growth, reduce costs, and provide measurable ROI.
-
-### My current focus includes:
-Developing multi-agent workflows that automate sales operations 24/7
-Creating AI-powered content generation systems for SEO and marketing
-Designing custom integrations between CRMs, marketing platforms, and communication channels
-Architecting database systems that support complex automation logic
-Building internal tools that improve team efficiency and decision-making
