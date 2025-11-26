@@ -5,7 +5,9 @@ I work as a Software Engineer (AI Automations & Systems) @ Embrace AI Agents and
 
 ## 📫 How to reach me:
 Personal e-mail: marcusbarbosaga@gmail.com
+
 LinkedIn: linkedin.com/in/marcusbtc
+
 GitHub: github.com/marcusbtc
 
 ## About Me
