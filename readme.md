@@ -1,82 +1,70 @@
-# Hi, I'm Marcus 👋
+<div align="center">
 
-## About Me
+# Marcus Barbosa
 
-I'm a Full Stack Software Engineer with a strong focus on AI integration and system design. Over the past few years I've worked across the full development stack — architecting backends, building APIs, designing databases, shipping frontends, and making the infrastructure decisions that actually matter when things need to scale.
+### Full-Stack Software Engineer · AI Systems · SaaS Architecture
 
-What makes my work different is context. Before I wrote a single line of backend code, I spent years in SEO and digital marketing, understanding how businesses grow, where they bleed money, and what actually moves the needle. That background changed how I think about software. I don't just build features. I build systems that solve real business problems.
+I build production software that turns complex business problems into scalable, measurable systems.
 
-I work primarily with Python and Node.js, and I've been integrating AI into production systems long enough to know when it adds genuine value and when it's just hype. When AI is the right tool, I know how to architect it properly. When it isn't, I'll tell you that too.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusbtc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcusbtc)
+[![Email](https://img.shields.io/badge/Email-Lets_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusbarbosaga@gmail.com)
 
-I'm the kind of engineer who gets called when something is broken and nobody knows why, when a system needs to be rethought before it falls apart, or when a team needs someone who can move fast without making a mess.
+</div>
 
-## 🔥 What I'm Working On
+## What I Do
 
-My focus is on building software that creates measurable impact, systems that cut costs, increase revenue, and scale without falling apart.
+I work across the full product lifecycle—from architecture and APIs to databases, interfaces, infrastructure, and growth. My focus is building software that reduces operational friction, creates revenue, and remains reliable as the product scales.
 
-Right now I'm designing and shipping full stack applications with Python and Node.js backends, architecting AI integrations that solve real problems and not just demos, making infrastructure and database decisions that hold up as products grow, and developing SaaS products that help businesses build authority and generate recurring revenue.
+- Design and ship full-stack SaaS products
+- Architect APIs, databases, integrations, and production infrastructure
+- Integrate AI where it creates real value—not just another demo
+- Diagnose complex systems and turn fragile workflows into maintainable products
+- Connect engineering decisions to acquisition, operations, and business outcomes
 
-**Mission:** Write software that matters. Ship systems that scale. Deliver results that show up in the numbers.
+Before software engineering, I worked in SEO and digital marketing. That experience still shapes how I build: every technical decision should support a real user, workflow, or business result.
 
----
+> **Build software that matters. Ship systems that scale. Deliver results that show up in the numbers.**
 
-## 🚀 Highlighted Projects
+## Selected Work
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://futurebabyvision.com/" target="_blank">
-        <img src="https://img.shields.io/badge/🍼_FutureBabyVision-FF6B9D?style=for-the-badge&logoColor=white" alt="FutureBabyVision"/>
-      </a>
-      <br/><br/>
-      <b>AI Baby Face Prediction</b>
-      <br/>
-      <sub>SaaS platform that predicts baby faces from ultrasound images and parent photos using AI</sub>
+    <td width="33%" valign="top">
+      <h3><a href="https://futurebabyvision.com/">Future BabyVision</a></h3>
+      <p>AI-powered SaaS that creates baby-face predictions from ultrasound images and parent photos.</p>
+      <p><code>AI</code> <code>SaaS</code> <code>Consumer Product</code></p>
     </td>
-    <td align="center" width="33%">
-      <a href="https://fortsense.net/" target="_blank">
-        <img src="https://img.shields.io/badge/🔒_Fortsense-1A1A2E?style=for-the-badge&logoColor=white" alt="Fortsense"/>
-      </a>
-      <br/><br/>
-      <b>Perimeter Security</b>
-      <br/>
-      <sub>Fiber optic perimeter security for critical infrastructure — military, industrial & high-security environments</sub>
+    <td width="33%" valign="top">
+      <h3><a href="https://fortsense.net/">FortSense</a></h3>
+      <p>Fiber-optic perimeter intrusion detection for critical infrastructure and high-security environments.</p>
+      <p><code>B2B</code> <code>IoT</code> <code>Critical Infrastructure</code></p>
     </td>
-    <td align="center" width="33%">
-      <a href="https://aeon.com.br/" target="_blank">
-        <img src="https://img.shields.io/badge/🛡️_Aeon_Security-0A3D62?style=for-the-badge&logoColor=white" alt="Aeon Security"/>
-      </a>
-      <br/><br/>
-      <b>Critical Infrastructure Security</b>
-      <br/>
-      <sub>B2B electronic security with AI-powered false alarm filtering, CCTV & 24/7 video monitoring</sub>
+    <td width="33%" valign="top">
+      <h3><a href="https://aeon.com.br/">Aeon Security</a></h3>
+      <p>Electronic security solutions combining AI-assisted alarm filtering, CCTV, and 24/7 monitoring.</p>
+      <p><code>B2B</code> <code>Security</code> <code>AI</code></p>
     </td>
   </tr>
 </table>
 
----
+## Core Toolkit
 
-## 🛠️ Technologies and Tools
+**Backend:** Python · FastAPI · Node.js · REST APIs · Webhooks<br>
+**Frontend:** TypeScript · JavaScript · Next.js · React<br>
+**AI & Automation:** OpenAI · Claude · Gemini · OpenRouter · n8n<br>
+**Data & Infrastructure:** PostgreSQL · Supabase · Redis · Docker<br>
+**Growth & Analytics:** Technical SEO · GA4 · Search Console · DataForSEO
 
-### Languages & Frameworks
-`Python` `Node.js` `JavaScript` `TypeScript` `FastAPI` `Next.js` `React.js` `HTML5` `CSS3`
+## How I Work
 
-### AI & Automation
-`OpenAI API` `Gemini API` `Claude API` `Perplexity API` `OpenRouter` `n8n` `Make` `Zapier`
+- **Business impact first:** technology is useful when it improves a meaningful outcome.
+- **AI with purpose:** use it when it earns its place in the architecture.
+- **End-to-end ownership:** understand the whole system, not only one layer.
+- **Scale without chaos:** move quickly while keeping the product maintainable.
 
-### Database & Infrastructure
-`PostgreSQL` `Supabase` `Redis` `Docker` `REST APIs` `Webhooks`
+## Let's Connect
 
-### Marketing & Analytics
-`Google Analytics 4` `Google Tag Manager` `Search Console` `SEMrush` `Ahrefs` `DataForSEO API`
+If you want to discuss product engineering, AI integration, SaaS architecture, or a difficult system problem:
 
-### Tools & Platforms
-`Git` `ClickUp` `Notion` `WhatsApp Business API` `WordPress` `Elementor`
-
----
-
-## 📫 How to Reach Me
-
-**Email:** marcusbarbosaga@gmail.com
-
-**LinkedIn:** [linkedin.com/in/marcusbtc](https://linkedin.com/in/marcusbtc)
+- [LinkedIn](https://linkedin.com/in/marcusbtc)
+- [Email](mailto:marcusbarbosaga@gmail.com)
