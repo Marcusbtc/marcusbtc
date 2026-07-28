@@ -30,19 +30,36 @@ Before software engineering, I worked in SEO and digital marketing. That experie
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3><a href="https://trueamericanpets.com/">True American Pets</a></h3>
+      <p>Headless Shopify commerce platform with custom product storytelling, collector certificates, webhook flows, and automated SEO operations.</p>
+      <p><code>Next.js</code> <code>Shopify</code> <code>Commerce</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://everhound-theta.vercel.app/">Everhound</a></h3>
+      <p>Direct-to-consumer canine wellness storefront combining evidence-led product education, rich motion, and Shopify commerce.</p>
+      <p><code>Next.js</code> <code>Shopify</code> <code>DTC</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://mejoresparaguay.com.py/">Mejores Paraguay</a></h3>
+      <p>Multilingual local-discovery platform with a custom CMS, editorial automation, interactive city guides, and programmatic SEO.</p>
+      <p><code>Next.js</code> <code>Payload</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3><a href="https://futurebabyvision.com/">Future BabyVision</a></h3>
-      <p>AI-powered SaaS that creates baby-face predictions from ultrasound images and parent photos.</p>
+      <p>Multilingual AI SaaS that creates baby-face predictions from ultrasound images and parent photos.</p>
       <p><code>AI</code> <code>SaaS</code> <code>Consumer Product</code></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://fortsense.net/">FortSense</a></h3>
-      <p>Fiber-optic perimeter intrusion detection for critical infrastructure and high-security environments.</p>
-      <p><code>B2B</code> <code>IoT</code> <code>Critical Infrastructure</code></p>
+      <p>B2B product and technical-content platform for fiber-optic perimeter security across critical industries.</p>
+      <p><code>B2B</code> <code>IoT</code> <code>Technical SEO</code></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://aeon.com.br/">Aeon Security</a></h3>
-      <p>Electronic security solutions combining AI-assisted alarm filtering, CCTV, and 24/7 monitoring.</p>
-      <p><code>B2B</code> <code>Security</code> <code>AI</code></p>
+      <p>Lead-generation platform for electronic security, AI-assisted alarm filtering, and critical-infrastructure projects.</p>
+      <p><code>B2B</code> <code>Security</code> <code>Lead Gen</code></p>
     </td>
   </tr>
 </table>
