@@ -1,68 +1,61 @@
-# Hi, I'm Marcus 👋
+# Marcus Barbosa
 
-I'm a full-stack software engineer working across AI products, SaaS platforms, headless commerce, content systems, and production infrastructure.
+Full-stack software engineer designing and operating production systems across headless commerce, AI SaaS, multilingual publishing, and critical-infrastructure security.
 
-My work covers product architecture, APIs, databases, interfaces, integrations, deployment, and analytics. My background in SEO and digital marketing also informs how I approach acquisition, content, and business operations.
+My scope covers data models, APIs, authentication, payments, webhook processing, third-party integrations, test automation, CI/CD, and production diagnostics. I work primarily with TypeScript, Next.js, Node.js, Payload CMS, PostgreSQL, Shopify APIs, Supabase, S3-compatible storage, and Docker.
 
-[LinkedIn](https://linkedin.com/in/marcusbtc) · [Email](mailto:marcusbarbosaga@gmail.com)
+My background in SEO and digital marketing informs the content models, analytics, and acquisition infrastructure around these products.
 
 ---
 
 ## Projects
 
-### [True American Pets](https://trueamericanpets.com/) — Headless commerce for a story-driven pet brand
+### [True American Pets](https://trueamericanpets.com/) — Next.js + Shopify headless storefront
 
-I rebuilt the Shopify storefront in Next.js, including commerce flows, serialized collector certificates, public verification, and automated SEO publishing.
-
-**Core stack:** `Next.js` · `TypeScript` · `Shopify Storefront API` · `Webhooks` · `Klaviyo`
+Next.js App Router storefront backed by Shopify Storefront and Admin APIs. I implemented catalog, cart, and checkout flows; metaobject-driven content; paid-order webhooks; serialized collector certificates with public verification; Klaviyo events; and Shopify setup and seeding tooling. Checkout remains hosted by Shopify.
 
 ---
 
-### [Everhound](https://everhound-theta.vercel.app/) — Evidence-led DTC pet wellness
+### [Everhound](https://everhound-theta.vercel.app/) — Next.js + Shopify subscription commerce
 
-I built a premium headless storefront with product journeys, science-led content, subscription paths, and an interactive explanation of its eight-ingredient formula.
-
-**Core stack:** `Next.js` · `React` · `Shopify` · `Playwright` · `TypeScript`
+Next.js 16 and React 19 storefront using Shopify GraphQL for catalog, cart, checkout, and selling plans. I implemented signed cart cookies, approved checkout hosts, configuration-gated transactions, subscription and bundle validation, structured data, accessibility checks, and Playwright coverage for desktop and mobile purchase flows.
 
 ---
 
-### [Mejores Paraguay](https://mejoresparaguay.com.py/) — Multilingual local discovery at scale
+### [Mejores Paraguay](https://mejoresparaguay.com.py/) — Decoupled Next.js + Payload publishing platform
 
-I built a multilingual discovery platform for Paraguayan businesses, services, and city guides, supported by a structured CMS, maps, lead generation, and programmatic SEO automation.
-
-**Core stack:** `Next.js` · `Payload CMS` · `PostgreSQL` · `Docker` · `Tailwind CSS`
+Next.js frontend consuming a Payload CMS 3 REST API backed by PostgreSQL. I built multilingual city, category, article, search, map, and lead routes; editorial and internal-link automation; remote CMS health checks; and a GitHub Actions deployment pipeline with database backups, smoke tests, and application rollback.
 
 ---
 
-### [Future BabyVision](https://futurebabyvision.com/) — AI-powered consumer platform
+### [Future BabyVision](https://futurebabyvision.com/) — Next.js + Hono AI SaaS
 
-I built a multilingual AI SaaS with several image-generation workflows, secure private storage, credit management, provider fallbacks, and card and PIX payments.
-
-**Core stack:** `Next.js` · `Hono` · `Supabase` · `OpenRouter` · `Gemini` · `Stripe` · `S3`
+Next.js 15 frontend with a Hono API, Supabase Auth, PostgreSQL row-level security, and private S3-compatible storage. I built several image-generation workflows with OpenRouter and Gemini fallback, atomic credit consumption, Stripe and AbacatePay payment webhooks, rate limiting, IP blocking, input validation, and generation history.
 
 ---
 
-### [FortSense](https://fortsense.net/) — A technical platform for critical-infrastructure security
+### [FortSense](https://fortsense.net/) — Split-runtime Next.js + Payload platform
 
-I re-architected the multilingual platform around separate frontend and CMS services, then built technical content systems, interactive sizing, and qualified lead flows.
-
-**Core stack:** `Next.js` · `Payload CMS` · `PostgreSQL` · `Docker` · `Playwright`
+Monorepo with a Next.js 16 public frontend, Payload CMS 3 API service, and PostgreSQL 16. I separated the frontend and CMS runtimes, implemented HTTP-based content delivery, multilingual route families, health and readiness endpoints, lead webhooks, architecture checks, and lint, type, unit, and Playwright validation.
 
 ---
 
-### [Aeon Security](https://aeon.com.br/) — B2B acquisition for high-complexity security
+### [Aeon Security](https://aeon.com.br/) — Next.js technical-content platform
 
-I structured Aeon's solutions, industries, case studies, and technical content around buyer intent for a B2B acquisition platform.
+Next.js platform organized around solutions, industries, case studies, resources, products, and local landing pages. I implemented segmented XML sitemaps, JSON-LD structured data, static caching, geographic route families, and a technical content architecture for organic acquisition and B2B lead generation.
 
-**Core stack:** `Next.js` · `Content Architecture` · `Technical SEO` · `Analytics`
+---
 
-## Tech stack
+## Technical stack
 
-**Backend:** Python · FastAPI · Node.js · REST APIs · Webhooks<br>
-**Frontend:** TypeScript · JavaScript · Next.js · React<br>
-**AI & Automation:** OpenAI · Claude · Gemini · OpenRouter · n8n<br>
-**Data & Infrastructure:** PostgreSQL · Supabase · Redis · Docker<br>
-**Growth & Analytics:** Technical SEO · GA4 · Search Console · DataForSEO
+**Languages:** TypeScript · JavaScript · Python · SQL<br>
+**Frontend:** Next.js · React · Tailwind CSS<br>
+**Backend & data:** Node.js · Hono · FastAPI · Payload CMS · PostgreSQL · Supabase · Redis<br>
+**Platforms & infrastructure:** Shopify · Docker · S3/MinIO · GitHub Actions · Webhooks<br>
+**AI & automation:** OpenAI · Claude · Gemini · OpenRouter · n8n<br>
+**Quality:** Playwright · type checking · ESLint · automated smoke tests
+
+---
 
 ## Contact
 
