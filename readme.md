@@ -1,82 +1,63 @@
-# Hi, I'm Marcus 👋
+# Marcus Barbosa
 
-## About Me
+Full-stack software engineer designing and operating production systems across headless commerce, AI SaaS, multilingual publishing, and critical-infrastructure security.
 
-I'm a Full Stack Software Engineer with a strong focus on AI integration and system design. Over the past few years I've worked across the full development stack — architecting backends, building APIs, designing databases, shipping frontends, and making the infrastructure decisions that actually matter when things need to scale.
+My scope covers data models, APIs, authentication, payments, webhook processing, third-party integrations, test automation, CI/CD, and production diagnostics. I work primarily with TypeScript, Next.js, Node.js, Payload CMS, PostgreSQL, Shopify APIs, Supabase, S3-compatible storage, and Docker.
 
-What makes my work different is context. Before I wrote a single line of backend code, I spent years in SEO and digital marketing, understanding how businesses grow, where they bleed money, and what actually moves the needle. That background changed how I think about software. I don't just build features. I build systems that solve real business problems.
-
-I work primarily with Python and Node.js, and I've been integrating AI into production systems long enough to know when it adds genuine value and when it's just hype. When AI is the right tool, I know how to architect it properly. When it isn't, I'll tell you that too.
-
-I'm the kind of engineer who gets called when something is broken and nobody knows why, when a system needs to be rethought before it falls apart, or when a team needs someone who can move fast without making a mess.
-
-## 🔥 What I'm Working On
-
-My focus is on building software that creates measurable impact, systems that cut costs, increase revenue, and scale without falling apart.
-
-Right now I'm designing and shipping full stack applications with Python and Node.js backends, architecting AI integrations that solve real problems and not just demos, making infrastructure and database decisions that hold up as products grow, and developing SaaS products that help businesses build authority and generate recurring revenue.
-
-**Mission:** Write software that matters. Ship systems that scale. Deliver results that show up in the numbers.
+My background in SEO and digital marketing informs the content models, analytics, and acquisition infrastructure around these products.
 
 ---
 
-## 🚀 Highlighted Projects
+## Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://futurebabyvision.com/" target="_blank">
-        <img src="https://img.shields.io/badge/🍼_FutureBabyVision-FF6B9D?style=for-the-badge&logoColor=white" alt="FutureBabyVision"/>
-      </a>
-      <br/><br/>
-      <b>AI Baby Face Prediction</b>
-      <br/>
-      <sub>SaaS platform that predicts baby faces from ultrasound images and parent photos using AI</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://fortsense.net/" target="_blank">
-        <img src="https://img.shields.io/badge/🔒_Fortsense-1A1A2E?style=for-the-badge&logoColor=white" alt="Fortsense"/>
-      </a>
-      <br/><br/>
-      <b>Perimeter Security</b>
-      <br/>
-      <sub>Fiber optic perimeter security for critical infrastructure — military, industrial & high-security environments</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://aeon.com.br/" target="_blank">
-        <img src="https://img.shields.io/badge/🛡️_Aeon_Security-0A3D62?style=for-the-badge&logoColor=white" alt="Aeon Security"/>
-      </a>
-      <br/><br/>
-      <b>Critical Infrastructure Security</b>
-      <br/>
-      <sub>B2B electronic security with AI-powered false alarm filtering, CCTV & 24/7 video monitoring</sub>
-    </td>
-  </tr>
-</table>
+### [True American Pets](https://trueamericanpets.com/) — Next.js + Shopify headless storefront
+
+Next.js App Router storefront backed by Shopify Storefront and Admin APIs. I implemented catalog, cart, and checkout flows; metaobject-driven content; paid-order webhooks; serialized collector certificates with public verification; Klaviyo events; and Shopify setup and seeding tooling. Checkout remains hosted by Shopify.
 
 ---
 
-## 🛠️ Technologies and Tools
+### [Everhound](https://everhound-theta.vercel.app/) — Next.js + Shopify subscription commerce
 
-### Languages & Frameworks
-`Python` `Node.js` `JavaScript` `TypeScript` `FastAPI` `Next.js` `React.js` `HTML5` `CSS3`
-
-### AI & Automation
-`OpenAI API` `Gemini API` `Claude API` `Perplexity API` `OpenRouter` `n8n` `Make` `Zapier`
-
-### Database & Infrastructure
-`PostgreSQL` `Supabase` `Redis` `Docker` `REST APIs` `Webhooks`
-
-### Marketing & Analytics
-`Google Analytics 4` `Google Tag Manager` `Search Console` `SEMrush` `Ahrefs` `DataForSEO API`
-
-### Tools & Platforms
-`Git` `ClickUp` `Notion` `WhatsApp Business API` `WordPress` `Elementor`
+Next.js 16 and React 19 storefront using Shopify GraphQL for catalog, cart, checkout, and selling plans. I implemented signed cart cookies, approved checkout hosts, configuration-gated transactions, subscription and bundle validation, structured data, accessibility checks, and Playwright coverage for desktop and mobile purchase flows.
 
 ---
 
-## 📫 How to Reach Me
+### [Mejores Paraguay](https://mejoresparaguay.com.py/) — Decoupled Next.js + Payload publishing platform
 
-**Email:** marcusbarbosaga@gmail.com
+Next.js frontend consuming a Payload CMS 3 REST API backed by PostgreSQL. I built multilingual city, category, article, search, map, and lead routes; editorial and internal-link automation; remote CMS health checks; and a GitHub Actions deployment pipeline with database backups, smoke tests, and application rollback.
 
-**LinkedIn:** [linkedin.com/in/marcusbtc](https://linkedin.com/in/marcusbtc)
+---
+
+### [Future BabyVision](https://futurebabyvision.com/) — Next.js + Hono AI SaaS
+
+Next.js 15 frontend with a Hono API, Supabase Auth, PostgreSQL row-level security, and private S3-compatible storage. I built several image-generation workflows with OpenRouter and Gemini fallback, atomic credit consumption, Stripe and AbacatePay payment webhooks, rate limiting, IP blocking, input validation, and generation history.
+
+---
+
+### [FortSense](https://fortsense.net/) — Split-runtime Next.js + Payload platform
+
+Monorepo with a Next.js 16 public frontend, Payload CMS 3 API service, and PostgreSQL 16. I separated the frontend and CMS runtimes, implemented HTTP-based content delivery, multilingual route families, health and readiness endpoints, lead webhooks, architecture checks, and lint, type, unit, and Playwright validation.
+
+---
+
+### [Aeon Security](https://aeon.com.br/) — Next.js technical-content platform
+
+Next.js platform organized around solutions, industries, case studies, resources, products, and local landing pages. I implemented segmented XML sitemaps, JSON-LD structured data, static caching, geographic route families, and a technical content architecture for organic acquisition and B2B lead generation.
+
+---
+
+## Technical stack
+
+**Languages:** TypeScript · JavaScript · Python · SQL<br>
+**Frontend:** Next.js · React · Tailwind CSS<br>
+**Backend & data:** Node.js · Hono · FastAPI · Payload CMS · PostgreSQL · Supabase · Redis<br>
+**Platforms & infrastructure:** Shopify · Docker · S3/MinIO · GitHub Actions · Webhooks<br>
+**AI & automation:** OpenAI · Claude · Gemini · OpenRouter · n8n<br>
+**Quality:** Playwright · type checking · ESLint · automated smoke tests
+
+---
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/marcusbtc)
+- [Email](mailto:marcusbarbosaga@gmail.com)
