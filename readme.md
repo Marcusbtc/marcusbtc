@@ -2,7 +2,7 @@
 
 Full-stack software engineer designing and operating production systems across headless commerce, AI SaaS, multilingual publishing, and critical-infrastructure security.
 
-My scope covers data models, APIs, authentication, payments, webhook processing, third-party integrations, test automation, CI/CD, and production diagnostics. I work primarily with TypeScript, Next.js, Node.js, Payload CMS, PostgreSQL, Shopify APIs, Supabase, S3-compatible storage, and Docker.
+My scope covers data models, APIs, authentication, payments, webhook processing, third-party integrations, test automation, CI/CD, and production diagnostics. I work primarily with Python, TypeScript, Javascript, Next.js, Node.js, Payload CMS, PostgreSQL, Shopify APIs, Supabase, S3-compatible storage, and Docker.
 
 My background in SEO and digital marketing informs the content models, analytics, and acquisition infrastructure around these products.
 
@@ -16,7 +16,7 @@ Next.js App Router storefront backed by Shopify Storefront and Admin APIs. I imp
 
 ---
 
-### [Everhound](https://everhound-theta.vercel.app/) — Next.js + Shopify subscription commerce
+### [Everhound](https://everhound.com/) — Next.js + Shopify subscription commerce
 
 Next.js 16 and React 19 storefront using Shopify GraphQL for catalog, cart, checkout, and selling plans. I implemented signed cart cookies, approved checkout hosts, configuration-gated transactions, subscription and bundle validation, structured data, accessibility checks, and Playwright coverage for desktop and mobile purchase flows.
 
@@ -30,19 +30,19 @@ Next.js frontend consuming a Payload CMS 3 REST API backed by PostgreSQL. I buil
 
 ### [Future BabyVision](https://futurebabyvision.com/) — Next.js + Hono AI SaaS
 
-Next.js 15 frontend with a Hono API, Supabase Auth, PostgreSQL row-level security, and private S3-compatible storage. I built several image-generation workflows with OpenRouter and Gemini fallback, atomic credit consumption, Stripe and AbacatePay payment webhooks, rate limiting, IP blocking, input validation, and generation history.
+Next.js 16 frontend with a Hono API, Supabase Auth, PostgreSQL row-level security, and private S3-compatible storage. I built several image-generation workflows with OpenRouter and Gemini fallback, atomic credit consumption, Stripe and AbacatePay payment webhooks, rate limiting, IP blocking, input validation, and generation history.
 
 ---
 
 ### [FortSense](https://fortsense.net/) — Split-runtime Next.js + Payload platform
 
-Monorepo with a Next.js 16 public frontend, Payload CMS 3 API service, and PostgreSQL 16. I separated the frontend and CMS runtimes, implemented HTTP-based content delivery, multilingual route families, health and readiness endpoints, lead webhooks, architecture checks, and lint, type, unit, and Playwright validation.
+Website Monorepo with a Next.js 16 public frontend, Payload CMS 3 API service, and PostgreSQL 16. I separated the frontend and CMS runtimes, implemented HTTP-based content delivery, multilingual route families, health and readiness endpoints, lead webhooks, architecture checks, and lint, type, unit, and Playwright validation.
 
 ---
 
 ### [Aeon Security](https://aeon.com.br/) — Next.js technical-content platform
 
-Next.js platform organized around solutions, industries, case studies, resources, products, and local landing pages. I implemented segmented XML sitemaps, JSON-LD structured data, static caching, geographic route families, and a technical content architecture for organic acquisition and B2B lead generation.
+Next.js Website organized around solutions, industries, case studies, resources, products, and local landing pages. I implemented segmented XML sitemaps, JSON-LD structured data, static caching, geographic route families, and a technical content architecture for organic acquisition and B2B lead generation.
 
 ---
 
